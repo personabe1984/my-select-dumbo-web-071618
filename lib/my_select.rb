@@ -3,6 +3,6 @@ def my_select(collection)
  index = 0
  temp_select = []
  while index < collection.length
-  
+  collection.push()
  end
 end
