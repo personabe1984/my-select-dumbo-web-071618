@@ -1,8 +1,7 @@
 def my_select(collection)
- # your code here!
  index = 0
  temp_select = []
  while index < collection.length
-  collection.push()
+  temp_select.push(collection[index])
  end
 end
