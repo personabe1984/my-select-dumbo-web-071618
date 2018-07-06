@@ -2,8 +2,8 @@ def my_select(collection)
  index = 0
  temp_select = []
  while index < collection.length
-  if yield(collection[index])
-    temp_select.push(collection[index])
+  if yield(array[index])
+    temp_select.push(array[index])
   end
   index += 1
  end
