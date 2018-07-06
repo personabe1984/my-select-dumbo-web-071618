@@ -4,6 +4,7 @@ def my_select(collection)
  while index < collection.length
   if yield(collection[index])
     temp_select.push(collection[index])
+  end
   index += 1
  end
 end
