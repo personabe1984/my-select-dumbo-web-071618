@@ -7,5 +7,5 @@ def my_select(collection)
   end
   index += 1
  end
- reu
+ return temp_select
 end
