@@ -3,5 +3,6 @@ def my_select(collection)
  temp_select = []
  while index < collection.length
   temp_select.push(collection[index])
+  index += 1
  end
 end
