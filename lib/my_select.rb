@@ -7,4 +7,5 @@ def my_select(collection)
   end
   index += 1
  end
+ reu
 end
